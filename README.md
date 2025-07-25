@@ -5,7 +5,7 @@ Using a news Api to fetch news and show at single plateform
 
 **###1.Clone the Repo**
 ###
-  https://github.com/DilipBsr/world-news-app.git
+  git clone https://github.com/DilipBsr/world-news-app.git
 
   cd index.html
 
