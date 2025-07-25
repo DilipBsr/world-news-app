@@ -1,15 +1,15 @@
 # world-news-app
 Using a news Api to fetch news and show at single plateform
 
-**# Run project **
+# Run project 
 
-**###1.Clone the Repo**
-###
-  git clone https://github.com/DilipBsr/world-news-app.git
+# 1.Clone the Repo :
+git clone https://github.com/DilipBsr/world-news-app.git
 
-  cd index.html
+# Navigate to world-news-app :
+cd index.html
 
-  run index.html
-###
+# run index.html : 
+run index.html
 
 
